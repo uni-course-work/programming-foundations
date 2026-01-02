@@ -466,7 +466,7 @@ In the next chapter, we will explore the **Programmer Mindset and Discipline**â€
 
 For now, accept that C++ is the vehicle for this course not because it is easy, but because it is honest. C++ will show you how computers actually work. C++ will force you to think precisely. C++ will make you a better programmer.
 
-The difficulty you feel is progress.
+The difficulty you feel is progress. [Programmer's Mindset and Discipline](./05-programmer-mindset-and-discipline.md)
 
 ---
 

@@ -899,4 +899,4 @@ In the next chapter, we will explore **Variables, Types, and Memory**—the fund
 
 For now, practice with your development environment. Create a few simple programs. Compile them. Run them. Try to compile something with an error and fix it. Get comfortable with the process.
 
-The ease you feel with your tools will directly translate to your ability to program effectively.
+The ease you feel with your tools will directly translate to your ability to program effectively. [Anatomy of a Simple Program](../03-Core-Programming-Concepts/09-Anatomy-of-Program/README.md)

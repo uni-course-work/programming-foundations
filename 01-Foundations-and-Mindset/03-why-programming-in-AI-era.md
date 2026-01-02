@@ -441,7 +441,7 @@ In the next chapter, we will explore **Why C++ Is Used Here**—and why learning
 
 For now, sit with the questions in this chapter. Think about your commitment. Decide whether you are ready to learn fundamentals the right way: through struggle, through thinking, through deep engagement.
 
-If you are ready, we are ready to teach you.
+If you are ready, we are ready to teach you. [Why C++?](./04-why-CPP.md)
 
 ---
 

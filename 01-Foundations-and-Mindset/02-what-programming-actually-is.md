@@ -488,6 +488,7 @@ You don't need to understand every detail of how compilation works or how the CP
 ## Looking Ahead
 
 Now that you understand what programming *is*, we can begin to discuss how to do it. In the next chapter, we will explore **why** learning programming fundamentals matters, especially in an age when AI can write code for you. We will discuss what skills remain irreducible, what judgment cannot be automated, and why understanding fundamentals makes you a better programmer than someone who merely copies solutions.
+[Why Learning Programming Fundamentals Matters in AI era?](./03-why-programming-in-AI-era.md)
 
 ---
 

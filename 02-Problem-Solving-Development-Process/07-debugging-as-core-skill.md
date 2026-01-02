@@ -853,3 +853,4 @@ For now, practice debugging. The next time something breaks, do not guess. Do no
 Trace. Isolate. Understand. Then fix.
 
 This discipline is what separates effective programmers from those who merely survive.
+[Development Environment and Toolchain](./08-dev-environ-and-toolchain.md)

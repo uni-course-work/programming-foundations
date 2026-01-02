@@ -458,4 +458,4 @@ But before you move forward, sit with what you've read here. Ask yourself:
 
 If the answer is yes—even a tentative yes—then turn the page.
 
-Let's begin. [What programming actually is?](../02-What-Programming-Actually-is/README.md)
+Let's begin. [What programming actually is?](./02-what-programming-actually-is.md)

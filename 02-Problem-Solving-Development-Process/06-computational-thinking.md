@@ -812,4 +812,4 @@ But before you move forward, practice the computational thinking process on prob
 
 The discipline of thinking before coding is what separates programmers from people who happen to know programming syntax.
 
-Be a programmer.
+Be a programmer. [Degugging as a Core Skill](./07-debugging-as-core-skill.md)

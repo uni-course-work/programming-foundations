@@ -591,4 +591,4 @@ If you cultivate precision, comfort with failure, careful error reading, a focus
 
 If you do not, no amount of technical knowledge will help.
 
-The choice is yours. Make it deliberately.
+The choice is yours. Make it deliberately. [Computational Thinking](../02-Problem-Solving-Development-Process/06-computational-thinking.md)

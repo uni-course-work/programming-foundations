@@ -1,2 +1,163 @@
-# programming-foundations
-Programming Foundations. A repository for learning Programming Fundamentals the Right way. It worked for me and hope that it will work for anyone else.
+# Programming Fundamentals with C++
+
+> *A serious introduction to how programs work, how programmers think, and why fundamentals still matter.*
+
+---
+
+## Welcome
+
+This repository is not about learning *just another programming language*.
+
+It is about learning how to **think clearly, reason precisely, and communicate instructions to a machine that takes you literally**.
+
+Programming is one of the most powerful intellectual tools humans have created. It allows ideas to be expressed as systems, tested at scale, and executed without ambiguity. But that power only emerges when fundamentals are understood deeply.
+
+This repository exists to teach those fundamentals—carefully, honestly, and without shortcuts.
+
+---
+
+## Who This Repository Is For
+
+This course is designed for:
+
+* Beginners with little or no programming experience
+* Students who want a **strong foundation**, not quick tricks
+* Learners who value understanding over memorization
+* Anyone serious about becoming *good* at programming, not just functional
+
+No prior coding experience is assumed.
+
+What *is* assumed is curiosity, patience, and a willingness to think.
+
+---
+
+## What You Will Learn
+
+By working through this repository, you will learn:
+
+* What programs are and how they execute
+* How data is represented, stored, and manipulated
+* How to reason about correctness and behavior
+* How to break complex problems into manageable parts
+* How to debug systematically instead of guessing
+* How to write code meant to be read, maintained, and trusted
+
+C++ is used here as a **teaching instrument**.
+The goal is not mastery of C++, but mastery of *programming fundamentals* that transfer to any serious language.
+
+---
+
+## Why C++
+
+C++ is not chosen because it is easy.
+
+It is chosen because it is *honest*.
+
+C++ exposes ideas that many modern languages hide:
+
+* how memory is managed,
+* how performance matters,
+* how abstraction is built, not magically granted.
+
+Learning these ideas early builds intuition that lasts for decades. Once you understand them, other languages become easier—not harder.
+
+---
+
+## How This Repository Is Structured
+
+This repository is organized as a guided tutorial, not a reference dump.
+
+```
+docs/
+  OUTLINE.md
+  ROADMAP.md
+  CHEATSHEET.md
+  RESOURCES.md
+
+tutorial/
+  module-01_foundations/
+    chapter-01_orientation/
+      README.md
+  module-02_problem-solving/
+  module-03_core-concepts/
+  ...
+    chapter-09-
+      README.md
+      problems.md
+      solutions.md
+  ...
+```
+
+Each chapter contains:
+
+* **Reading** — concepts and mental models
+* **Problem Sets** — exercises that create productive struggle
+* **Solutions** — explanations, not just answers
+
+Learning happens in the *friction* between reading and solving.
+
+---
+
+## How to Use This Repository
+
+1. Read chapters **in order**
+2. Pause often and think before moving on
+3. Attempt problem sets seriously before reading solutions
+4. Treat confusion as a signal to slow down, not to quit
+5. Focus on understanding behavior, not memorizing syntax
+
+There is no time limit. Speed is not the goal. Clarity is.
+
+---
+
+## What This Repository Is *Not*
+
+This repository is not:
+
+* a crash course
+* a syntax cheat sheet
+* a copy-paste tutorial
+* a substitute for thinking
+
+If you are looking for instant productivity or shortcuts, this may feel slow.
+
+That is intentional.
+
+---
+
+## A Note on Difficulty
+
+If at times this feels challenging, that’s expected.
+
+Programming is difficult in the same way mathematics and physics are difficult—not because they are arbitrary, but because they demand precision.
+
+The difficulty here is not a barrier. It is the training.
+
+---
+
+## Where This Leads
+
+This repository is the **first of a planned sequence**:
+
+1. Programming Fundamentals (this repo)
+2. Object-Oriented Programming
+3. Generic Programming and Templates
+4. Modern and Advanced C++
+
+Together, they form a coherent path from first principles to professional-level understanding.
+
+---
+
+## Final Thought
+
+Good programmers are not defined by how many languages they know.
+
+They are defined by how well they understand:
+
+* what they are asking a machine to do,
+* why it behaves the way it does,
+* and how to reason when things go wrong.
+
+That understanding begins here.
+
+Welcome to Programming Foundations!.
